@@ -1,4 +1,4 @@
-# 👋🏼 Olá, meu nome é Naiara 🙋🏻‍♀️
+ 👋🏼 Olá, meu nome é Naiara 🙋🏻‍♀️
 
 -📚 Sou estudante de doutorado em CP na UFPR 👩🏽‍🎓  
 -🗣️ Pesquisadora multi métodos   
