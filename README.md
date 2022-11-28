@@ -3,4 +3,9 @@
 -📚 Sou doutora em CP pela UFPR 👩🏽‍🎓  
 -🗣️ Pesquisadora multi métodos   
 -📞 meu e-mail é: naiara_sandy@hotmail.com  
--☎️ Ou whats: 41 9 8796-2438  
+
+
+[![Nai](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/OU473T4Z5PAAB1)
+[![Nai](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naiarasandi/)
+
+
