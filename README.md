@@ -10,4 +10,4 @@
 
 <img src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif" width="235" height="300" />
 
-<img src="https://giphy.com/gifs/thisgifishaunted-halloween-working-happy-ThrM4jEi2lBxd7X2yz" width="235" height="300" />
+<img src="https://giphy.com/gifs/thisgifishaunted-halloween-working-happy-ThrM4jEi2lBxd7X2yz.gif" width="235" height="300" />
