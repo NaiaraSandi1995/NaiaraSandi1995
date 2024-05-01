@@ -1,6 +1,5 @@
           👋🏼 Olá, meu nome é Naiara 🙋🏻‍♀️
           -📚 Sou doutora em CP pela UFPR 👩🏽‍🎓  
-          -🗣️ Faço pós doc. em CP pela UFPA   
           -📞 me contate pelo e-mail naiara_sandy@hotmail.com 
           
 
