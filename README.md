@@ -44,4 +44,4 @@ Minha atuação acadêmica concentra-se em comportamento político, cultura pol�
   http://lattes.cnpq.br/3451135311500060
 
 - Site pessoal  
- [ INSIRA-AQUI-O-LINK-DO-SEU-SITE](https://naiarasandi1995.github.io/NaiaraWebsite/)
+https://naiarasandi1995.github.io/NaiaraWebsite/
